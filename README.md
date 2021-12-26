@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey 👋
+
+ 
+![Sidnei GitHub stats](https://github-readme-stats.vercel.app/api?username=sidneip&count_private=true)
 
 <!--
 **sidneip/sidneip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
