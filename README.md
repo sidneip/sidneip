@@ -2,10 +2,10 @@
 
 I'm software engineer and entrepreneur.
 
-## Projects:
+## Last Projects :
 
   - [seuguru](https://www.seuguru.com.br) - Partner & CTO - **current**
-  - [a lavadeira](https://www.alavadeira.com.br) - Partner & CTO
+  - [a lavadeira](https://www.alavadeira.com.br) - Partner & ~~CTO~~
 
 ## Info
 
