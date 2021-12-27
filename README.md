@@ -1,8 +1,8 @@
 ### Hey 👋
 
-I'm CTO on [seuguru](www.seuguru.com.br)
+I'm CTO on [seuguru](https://www.seuguru.com.br)
 
-- 🔭 I’m currently working on [seuguru](www.seuguru.com.br)
+- 🔭 I’m currently working on [seuguru](https://www.seuguru.com.br)
 - 🌱 I’m currently learning kubernetes, insurances.
 
 ## Contacts
