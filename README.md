@@ -3,14 +3,13 @@
 I'm software engineer and entrepreneur.
 
 ## Last Projects :
-  - [seuguru](https://www.gurupass.com.br) - Partner & CTO - **current**
+  - [gurupass](https://www.gurupass.com.br) - Partner & CTO - **current**
   - [seuguru](https://www.seuguru.com.br) - Partner & CTO - **current**
   - [a lavadeira](https://www.alavadeira.com.br) - Partner & ~~CTO~~
 
 ## Info
 
-- 🔭 I’m currently working on [seuguru](https://www.seuguru.com.br)
-- 🌱 I’m currently learning kubernetes, insurances, product discovery, product development.
+- 🔭 I’m currently working on [gurupass](https://www.gurupass.com.br)
 
 ## Contacts
 <a href="https://github.com/sidneip" target="_blank">
