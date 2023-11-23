@@ -3,7 +3,7 @@
 I'm software engineer and entrepreneur.
 
 ## Last Projects :
-
+  - [seuguru](https://www.gurupass.com.br) - Partner & CTO - **current**
   - [seuguru](https://www.seuguru.com.br) - Partner & CTO - **current**
   - [a lavadeira](https://www.alavadeira.com.br) - Partner & ~~CTO~~
 
