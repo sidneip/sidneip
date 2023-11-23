@@ -33,6 +33,9 @@ I'm software engineer and entrepreneur.
 <a href="https://medium.com/@sidneip.junior" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.sidneipacheco.com.br" target="_blank">
+<img src=https://img.shields.io/badge/website-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
   
 
  ## Activity
