@@ -5,7 +5,7 @@ I'm software engineer and entrepreneur.
 ## Last Projects :
   - [gurupass](https://www.gurupass.com.br) - Partner & CTO - **current**
   - [seuguru](https://www.seuguru.com.br) - Partner & CTO - **current**
-  - [a lavadeira](https://www.alavadeira.com.br) - Partner & ~~CTO~~
+  - [a lavadeira](https://www.alavadeira.com.br) - Partner & ~~CTO~~ (exit)
 
 ## Info
 
