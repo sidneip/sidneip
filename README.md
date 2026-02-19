@@ -30,6 +30,8 @@ Currently building **[Gurupass](https://gurupass.com.br)** 🚀
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)
+![Postresql](https://img.shields.io/badge/Postgresql-1287B1?style=flat&logo=postgresql&logoColor=white)
+![MongoDb](https://img.shields.io/badge/MongoDb-1287B1?style=flat&logo=mongodb&logoColor=white)
 ---
 ## 🚀 What I've Built
 - **[Gurupass](https://gurupass.com.br)** — Fitness & wellness marketplace · Co-founder & CTO
