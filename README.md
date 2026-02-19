@@ -32,7 +32,18 @@ Currently building **[Gurupass](https://gurupass.com.br)** 🚀
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)
 ![Postresql](https://img.shields.io/badge/Postgresql-1287B1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDb-1287B1?style=flat&logo=mongodb&logoColor=white)
+
+**AI & Machine Learning**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat&logo=python&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-4285F4?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat&logoColor=black)
+![Vector DB](https://img.shields.io/badge/Vector_DB-6366F1?style=flat&logo=database&logoColor=white)
+
 ---
+
 ## 🚀 What I've Built
 - **[Gurupass](https://gurupass.com.br)** — Fitness & wellness marketplace · Co-founder & CTO
 - **[Seuguru](https://seuguru.com.br)** — Insurance to Gig Economy · Co-founder & CTO
