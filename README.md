@@ -33,7 +33,7 @@ Currently building **[Gurupass](https://gurupass.com.br)** 🚀
 ---
 ## 🚀 What I've Built
 - **[Gurupass](https://gurupass.com.br)** — Fitness & wellness marketplace · Co-founder & CTO
-- **[Seuguru](https://seuguru.com.br)** — EdTech platform · Co-founder & CTO
+- **[Seuguru](https://seuguru.com.br)** — Insurance to Gig Economy · Co-founder & CTO
 - **[Wizu](https://wizuapp.com)** — Gamified financial education app for families · Founder · Expo (React Native) + Ruby on Rails
 - **[Magda](https://github.com/sidneip/magda)** — Native Cassandra desktop client built in Rust
 - **[GoFilter](https://github.com/sidneip/gofilter)** — Go library for dynamic, composable slice filtering
